@@ -2,6 +2,10 @@
 
 This project transforms 2D RGB images into 3D point clouds using a deep learning-based depth estimation model. It features a clean Streamlit interface for inference, training, and visualization.
 
+## 🚀 Try the App
+
+👉 [Click here to open the live app](https://suvchr105-2d-images-to-3d-images-construction-app-cs0xop.streamlit.app/)
+
 ---
 
 ## 🚀 Features
